@@ -1,0 +1,17 @@
+c:\users\thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\bin\Debug\QLPhimClient.exe.config
+c:\users\thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\bin\Debug\QLPhimClient.exe
+c:\users\thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\bin\Debug\QLPhimClient.pdb
+c:\users\thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\bin\Debug\Newtonsoft.Json.xml
+c:\users\thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\obj\Debug\QLPhimClient.csprojResolveAssemblyReference.cache
+c:\users\thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\obj\Debug\QLPhimClient.Main.resources
+c:\users\thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\obj\Debug\QLPhimClient.Forms.FormDangNhap.resources
+c:\users\thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\obj\Debug\QLPhimClient.Properties.Resources.resources
+c:\users\thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\obj\Debug\QLPhimClient.csproj.GenerateResource.Cache
+c:\users\thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\obj\Debug\QLPhimClient.exe
+c:\users\thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\obj\Debug\QLPhimClient.pdb
+c:\users\thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\obj\Debug\QLPhimClient.Forms.FormQuanLyTaiKhoan.resources
+C:\Users\Thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\obj\Debug\QLPhimClient.Forms.FormCapNhatPhim.resources
+C:\Users\Thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\obj\Debug\QLPhimClient.Forms.FormTimTheoTheLoai.resources
+C:\Users\Thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\obj\Debug\QLPhimClient.Forms.FormPhimMoi.resources
+C:\Users\Thuan\documents\visual studio 2015\Projects\QLPhimClient\QLPhimClient\obj\Debug\QLPhimClient.Forms.FormTraCuuTheoXuatChieu.resources
